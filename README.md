@@ -23,7 +23,12 @@ _Please click on the images on right side to view my solution._
 1. You can use R, Python, SAS Enterprise Miner or any other tool.
 1. What will be predicted score if a student studies for 9.25 hrs/ day?
 
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/ePDA-9p19fw)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/aakanksha105/GRIP-The-Sparks-Foundation/blob/main/Task_3_Exploratory_Data_Analysis_Retail.ipynb)
 
+
+### # Task-3 : Exploratory Data Analysis - Retail.
+Find out the weak areas in a business, where you can work to make more profit. Find the various business problems which can be derived by exploring the data.
 
 
 You can view all the tasks on my [youtube playlist](https://www.youtube.com/playlist?list=PLWA7Ml8Rq3KfV6QSeO_Hr9t0xbfc-Xdg2) as well.
