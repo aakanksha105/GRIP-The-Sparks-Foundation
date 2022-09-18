@@ -40,8 +40,8 @@ _Please click on the images on right side to view my solution._
 ### # Task-3 : Exploratory Data Analysis - Retail (Level - Beginner)
 _Please click on the images on right side to view my solution._
 
-Find out the weak areas in a business, where you can work to make more profit. Find the various business problems which can be derived by exploring the data.
-
+1. Find out the weak areas in a business, where you can work to make more profit. Find the various business problems which can be derived by exploring the data.
+1. Data can be found at https://drive.google.com/file/d/1lV7is1B566UQPYzzY8R2ZmOritTW299S/view
 
  ### References -
  - [Tableau](https://help.tableau.com/v2018.3/offline/en-us/tableau_desktop.pdf) 
