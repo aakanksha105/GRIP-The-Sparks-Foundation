@@ -8,7 +8,7 @@ This repository contains the tasks that I completed while working as an intern f
 - **Internship Duration** - 1 Month 
 - **Internship Type** - Work from Home
 
-In this internship, we were provided a total of 6 Tasks and I was able to successfully complete 2 tasks within the given time-frame.
+In this internship, we were provided a total of 8 Tasks and I was able to successfully complete 6 tasks within the given time-frame.
 
 
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/aakanksha105/GRIP-The-Sparks-Foundation/blob/main/Task_1_Linear_Regression.ipynb)
