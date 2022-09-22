@@ -47,7 +47,7 @@ _Please click on the images on right side to view my solution._
 
 
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/aakanksha105/GRIP-The-Sparks-Foundation/blob/main/Task_1_Linear_Regression.ipynb)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/aakanksha105/GRIP-The-Sparks-Foundation/blob/main/Task_4-_rediction%20using%20unsupervised%20ml.ipynb)
 
 
 ### # Task-4 : Prediction using unSupervised ML (Level - Beginner)
@@ -58,7 +58,7 @@ _Please click on the images on right side to view my solution._
 1. Data can be found at https://bit.ly/3cGyP8j
 
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/aakanksha105/GRIP-The-Sparks-Foundation/blob/main/Task_2_Prediction_using_Decision_Tree_Algorithm.ipynb)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/aakanksha105/GRIP-The-Sparks-Foundation/blob/main/Task_5_EDA-Sports.ipynb)
 
 
 ### # Task-5 :  Exploratory Data Analysis - Sports (Level - Advanced)
@@ -69,7 +69,7 @@ _Please click on the images on right side to view my solution._
 1. Suggest teams or players a company should endorse for its products.
 1. Data can be found at https://bit.ly/34SRn3b
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/aakanksha105/GRIP-The-Sparks-Foundation/blob/main/Task_3_Exploratory_Data_Analysis_Retail.ipynb)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/aakanksha105/GRIP-The-Sparks-Foundation/blob/main/Task_6_EDA-Terrorism.ipynb)
 
 
 ### # Task-6 : Exploratory Data Analysis - Terrorism (Level - Intermediate)
@@ -80,7 +80,5 @@ _Please click on the images on right side to view my solution._
 1. What all security issues and insights you can derive by EDA?
 1. Data can be found at https://bit.ly/2TK5Xn5
 
- ### References -
- - [Tableau](https://help.tableau.com/v2018.3/offline/en-us/tableau_desktop.pdf) 
- - [Scikit Learn](https://scikit-learn.org/stable/)
+ 
  
