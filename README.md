@@ -47,7 +47,7 @@ _Please click on the images on right side to view my solution._
 
 
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/aakanksha105/GRIP-The-Sparks-Foundation/blob/main/Task_4-_rediction%20using%20unsupervised%20ml.ipynb)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/aakanksha105/GRIP-The-Sparks-Foundation/blob/main/Task_4_prediction%20using%20unsupervised%20ml.ipynb)
 
 
 ### # Task-4 : Prediction using unSupervised ML (Level - Beginner)
