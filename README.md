@@ -43,6 +43,43 @@ _Please click on the images on right side to view my solution._
 1. Find out the weak areas in a business, where you can work to make more profit. Find the various business problems which can be derived by exploring the data.
 1. Data can be found at https://drive.google.com/file/d/1lV7is1B566UQPYzzY8R2ZmOritTW299S/view
 
+
+
+
+
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/aakanksha105/GRIP-The-Sparks-Foundation/blob/main/Task_1_Linear_Regression.ipynb)
+
+
+### # Task-4 : Prediction using unSupervised ML (Level - Beginner)
+_Please click on the images on right side to view my solution._
+
+1. From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
+1. Use R or Python or perform this task.
+1. Data can be found at https://bit.ly/3cGyP8j
+
+
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/aakanksha105/GRIP-The-Sparks-Foundation/blob/main/Task_2_Prediction_using_Decision_Tree_Algorithm.ipynb)
+
+
+### # Task-5 :  Exploratory Data Analysis - Sports (Level - Advanced)
+_Please click on the images on right side to view my solution._
+
+1. Problem Statement: Perform Exploratory Data Analysis on 'Indian Premiere League'
+1. As a sports analysts, find out the most successful teams, players and factors contributing win or loss of a team.
+1. Suggest teams or players a company should endorse for its products.
+1. Data can be found at https://bit.ly/34SRn3b
+
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/aakanksha105/GRIP-The-Sparks-Foundation/blob/main/Task_3_Exploratory_Data_Analysis_Retail.ipynb)
+
+
+### # Task-6 : Exploratory Data Analysis - Terrorism (Level - Intermediate)
+_Please click on the images on right side to view my solution._
+
+1. Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’
+1. As a security/defense analyst, try to find out the hot zone of terrorism.
+1. What all security issues and insights you can derive by EDA?
+1. Data can be found at https://bit.ly/2TK5Xn5
+
  ### References -
  - [Tableau](https://help.tableau.com/v2018.3/offline/en-us/tableau_desktop.pdf) 
  - [Scikit Learn](https://scikit-learn.org/stable/)
